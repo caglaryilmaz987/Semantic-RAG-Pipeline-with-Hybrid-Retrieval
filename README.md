@@ -23,9 +23,15 @@ The system combines **Dense Vector Search (Qwen3-Embedding-0.6b)** and **Sparse 
 
 ---
 
-## 📸 Screenshots & UI Showcase
+## 🎥 Video Demo & Presentation
 
-> *Drop your application screenshots into `docs/screenshots/` to display them here!*
+[![Watch Demo Video](https://img.shields.io/badge/Google_Drive-Watch_Demo_Video_(1:59)-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1KcJ8hqsmnh18mHrzRpsrdA1znkJM_Acc/view?usp=sharing)
+
+> **Watch the 1:59 project walk-through video on Google Drive:** [https://drive.google.com/file/d/1KcJ8hqsmnh18mHrzRpsrdA1znkJM_Acc/view?usp=sharing](https://drive.google.com/file/d/1KcJ8hqsmnh18mHrzRpsrdA1znkJM_Acc/view?usp=sharing)
+
+---
+
+## 📸 Screenshots & UI Showcase
 
 <div align="center">
 
