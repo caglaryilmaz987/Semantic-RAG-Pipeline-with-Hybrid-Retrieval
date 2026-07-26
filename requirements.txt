@@ -1,0 +1,6 @@
+foundry-local-sdk
+rank-bm25
+sentence-transformers
+numpy
+streamlit
+torch
